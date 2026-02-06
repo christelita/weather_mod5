@@ -135,6 +135,14 @@ Los estilos continúan modularizados con **SASS**, reutilizando variables, mixin
 
 ---
 
+## 🏞️ Vista Previa del Proyecto
+
+### Home
+![Home](Assets/screenshots/home.png)
+
+### Detalle de Ciudad
+![Detalle de Ciudad](Assets/screenshots/detalle_card.png)
+
 ## 🗂️ Estructura del proyecto
 
 ```text
@@ -160,13 +168,7 @@ weather_mod5/
 │
 └── README.md
 
-## 🏞️ Vista Previa del Proyecto
 
-### Home
-![Home](Assets/screenshots/home.png)
-
-### Detalle de Ciudad
-![Detalle de Ciudad](Assets/screenshots/detalle_card.png)
 
 
 
