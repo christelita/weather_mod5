@@ -1,0 +1,13 @@
+// Hover para “levantar” elementos
+@mixin hover-lift($distance: $place-card-hover-distance, $time: $place-card-hover-time) {
+  cursor: pointer;
+  transition: transform $time;
+
+  &:hover {
+    transform: translateY(-$distance);
+  }
+}
+
+
+
+

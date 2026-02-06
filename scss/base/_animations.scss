@@ -1,0 +1,21 @@
+/* ================== CLIMA ANIMADO ================== */
+@keyframes flotar {
+  0% {
+    left: 110%;
+  }
+  100% {
+    left: -150px;
+  }
+}
+
+.clima-animado {
+  position: fixed;
+  top: 33px;
+  left: 110%;
+  font-size: 2rem;
+  animation: flotar 16s linear infinite;
+  z-index: 9999;
+  transform: scaleX(1);
+}
+
+
