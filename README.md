@@ -138,7 +138,7 @@ Los estilos continúan modularizados con **SASS**, reutilizando variables, mixin
 ## 🗂️ Estructura del proyecto
 
 ```text
-weather/
+weather_mod5/
 │
 ├── index.html
 │
@@ -160,8 +160,17 @@ weather/
 │
 └── README.md
 
+## 🏞️ Vista Previa del Proyecto
+
+### Home
+![Home](Assets/screenshots/home.png)
+
+### Detalle de Ciudad
+![Detalle de Ciudad](Assets/screenshots/detalle_card.png)
+
+
 
 ## 📌 Repositorio
 
-👉 
+👉 https://github.com/christelita/weather_mod5.git
 
